@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\Övning3\Övning3\bin\Debug\Övning3.exe.config
+C:\Users\zirko\source\repos\Övning3\Övning3\bin\Debug\Övning3.exe
+C:\Users\zirko\source\repos\Övning3\Övning3\bin\Debug\Övning3.pdb
+C:\Users\zirko\source\repos\Övning3\Övning3\obj\Debug\Övning3.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\Övning3\Övning3\obj\Debug\Övning3.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\Övning3\Övning3\obj\Debug\Övning3.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\Övning3\Övning3\obj\Debug\Övning3.exe
+C:\Users\zirko\source\repos\Övning3\Övning3\obj\Debug\Övning3.pdb
